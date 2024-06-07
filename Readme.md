@@ -4,7 +4,7 @@
 
 - Register
 - Login with credentails and google
-  \_ Reset password
+- Reset password
 - Manage profile
 - Search with meilisearch (API)
 
