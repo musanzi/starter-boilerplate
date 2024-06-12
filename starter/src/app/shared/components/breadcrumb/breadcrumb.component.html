@@ -1,0 +1,12 @@
+<h4 class="f-w-700">{{title}}</h4>
+<nav>
+    <ol class="breadcrumb justify-content-sm-start align-items-center mb-0">
+        <li class="breadcrumb-item">
+            <a href="javascript:void(0)">
+                <app-feather-icons [icons]="'home'"></app-feather-icons>
+            </a>
+        </li>
+        <li class="breadcrumb-item f-w-400" *ngIf="breadcrumbs.parentBreadcrumb">{{breadcrumbs.parentBreadcrumb}}</li>
+        <li class="breadcrumb-item f-w-400 active" *ngIf="breadcrumbs.childBreadcrumb">{{breadcrumbs.childBreadcrumb}}</li>
+    </ol>
+</nav>

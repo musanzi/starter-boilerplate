@@ -1,0 +1,8 @@
+<symbol viewBox="0 0 18 18"  xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.4">
+<path d="M9 1.5V6.75L10.5 5.25" stroke-opacity="0.8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M9 6.75L7.5 5.25" stroke-opacity="0.8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path opacity="0.4" d="M1.48499 9.75H4.79248C5.07748 9.75 5.33249 9.9075 5.45999 10.1625L6.33748 11.9175C6.59248 12.4275 7.10999 12.75 7.67999 12.75H10.3275C10.8975 12.75 11.415 12.4275 11.67 11.9175L12.5475 10.1625C12.675 9.9075 12.9375 9.75 13.215 9.75H16.485" stroke-opacity="0.8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M5.25 3.09753C2.595 3.48753 1.5 5.04753 1.5 8.25003V11.25C1.5 15 3 16.5 6.75 16.5H11.25C15 16.5 16.5 15 16.5 11.25V8.25003C16.5 5.04753 15.405 3.48753 12.75 3.09753" stroke-opacity="0.8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</symbol>

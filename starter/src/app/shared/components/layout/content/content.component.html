@@ -1,0 +1,14 @@
+<div class="page-wrapper" id="pageWrapper" [ngClass]="layoutClass">
+  <app-header></app-header>
+  <div class="page-body-wrapper">
+    <div class="sidebar-wrapper" [class.close_icon]="navService.collapseSidebar" [attr.data-layout]="layout.config.settings.icon">
+      <app-sidebar></app-sidebar>
+    </div>
+    <div class="page-body">
+      <router-outlet></router-outlet>
+    </div>
+    <footer class="footer" [class.footer-dark]="footerDark" [class.footer-light]="footerLight" [class.footer-fix]="footerFix">
+      <app-footer></app-footer>
+    </footer>
+  </div>
+</div>
